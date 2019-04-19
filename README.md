@@ -1,8 +1,8 @@
 # Test
-<!doctype html>
+
 <html>
 <head>
-  <title>Trucking Management - Home</title>
+  Trucking Management - Home
   <link rel="stylesheet" type="text/css" href="trucking.css">
 </head>
 <body>
