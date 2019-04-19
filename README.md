@@ -15,7 +15,7 @@
   <br /><br />
   <div id="content">
     <a href="driverLogin.php">Driver Login</a>
-    <a href="managerLogin.php">Manager Login</a>
+    <a href="./managerLogin.php">Manager Login</a>
   </div>
 </body>
 </html>
